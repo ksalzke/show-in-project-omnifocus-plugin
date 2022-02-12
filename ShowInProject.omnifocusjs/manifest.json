@@ -1,0 +1,18 @@
+{
+  "defaultLocale": "en",
+  "identifier": "com.KaitlinSalzke.ShowInProject",
+  "author": "Kaitlin Salzke",
+  "description": "An OmniFocus plug-in to show a given task in its project.",
+  "version": "1.0.0",
+  "actions": [
+    {
+      "identifier": "showInProject",
+      "image": "eye"
+    }
+  ],
+  "libraries": [
+    {
+      "identifier": "showInProjectLib"
+    }
+  ]
+}
